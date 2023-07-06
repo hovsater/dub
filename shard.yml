@@ -1,0 +1,13 @@
+name: dub
+version: 0.1.0
+
+authors:
+  - Kevin Hovsäter <kevin@hovsater.com>
+
+targets:
+  dub:
+    main: src/dub.cr
+
+crystal: 1.8.2
+
+license: MIT
